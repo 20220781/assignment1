@@ -1,1 +1,1 @@
-The Name of "turtle python is the assginemnt, others are the practices. "
+The Name of "turtle python is the assignment, others are the practices. "
