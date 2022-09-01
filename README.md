@@ -1,2 +1,1 @@
-# assignment1
-Whitecliffe IT5016 Software Development Fundamentals assignment 1
+The Name of "turtle python is the assginemnt, others are the practices. "
